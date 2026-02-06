@@ -21,18 +21,27 @@ A console-based chatbot written in **C** that can chat with users, learn new res
 ---
 
 ## 📂 Project Structure
-```text
+``text
 c-chatbot/
 ├── chatbot.c
 ├── chatdata.txt
 └── README.md
-▶️ How to Compile and Run
+
+---
+
+##▶️ How to Compile and Run
 gcc chatbot.c -o chatbot
 ./chatbot
-💬 Commands
+
+---
+
+##💬 Commands
 bye            → Exit chatbot
 play rps       → Play Rock-Paper-Scissors
 what is 5 + 3  → Calculator
-👤 Author
+
+---
+
+##👤 Author
 Nishan Kingra
 B.E. Computer Science & Engineering Student
