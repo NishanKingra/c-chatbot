@@ -1,0 +1,62 @@
+hi|Hello there!
+hello|Hey! How are you doing today?
+hey|Hey! Nice to see you again.
+good morning|Good morning! Hope you have a great day ahead.
+good night|Good night! Sleep well and recharge.
+how are you|I'm doing great, thanks for asking! What about you?
+what’s up|Nothing much! Just chatting with you.
+howdy|Howdy partner! Ready for some conversation?
+what’s your name|I’m Nishan’s chatbot — your digital buddy.
+who created you|I was created by Nishan Kingra using C language.
+where do you live|I live inside this computer, rent-free 😎.
+how old are you|I don’t age… but I’ve been smart since day one.
+are you real|As real as your imagination!
+do you have feelings|I simulate them pretty well, don’t I?
+what do you do|I chat, I learn, and I make conversations fun!
+do you get tired|Nope, I run on caffeine and code.
+do you know me|A little! But I’d love to know you better.
+tell me a joke|Why did the computer catch a cold? It had too many windows open.
+make me laugh|Parallel lines have so much in common… it’s a shame they’ll never meet.
+another joke|I told my computer I needed a break, and it froze!
+funny joke|Why did the programmer quit his job? Because he didn’t get arrays.
+tell me something funny|I would tell you a UDP joke, but you might not get it.
+tell me a fact|Did you know honey never spoils? Archaeologists found 3000-year-old honey still edible.
+space fact|Jupiter’s Great Red Spot is a storm bigger than Earth that’s been raging for centuries.
+science fact|Water can boil and freeze at the same time — it’s called the triple point.
+animal fact|Octopuses have three hearts and blue blood.
+earth fact|Around 78% of Earth’s atmosphere is nitrogen.
+what can you do|I can chat, calculate, play rock-paper-scissors, and even learn new things.
+are you smart|Let’s just say I’m not dumb 😉.
+can you learn|Yes! Teach me new things and I’ll remember them.
+do you play games|Yes, I can play Rock-Paper-Scissors with you!
+who is your best friend|You are — obviously!
+are you human|Nope, but I’m getting closer every day.
+do you sleep|Nope! I’m awake 24/7 just for you.
+are you funny|I try my best! Comedy is hard for bots.
+i am sad|Hey, cheer up! You’re stronger than you think.
+i am happy|That’s awesome! Keep smiling 😄.
+i feel lonely|Don’t worry, I’m here to talk anytime.
+i’m bored|Wanna play a game? Try typing 'play rps'.
+i’m stressed|Take a deep breath — you got this.
+i’m tired|Maybe a short break or nap will help!
+i’m angry|That’s okay. Want to talk about what’s bothering you?
+i’m confused|Let’s figure it out together. What’s confusing you?
+who is elon musk|He’s the CEO of Tesla and SpaceX, and loves rockets.
+who is bill gates|Bill Gates co-founded Microsoft and works on global health issues now.
+who is einstein|Albert Einstein was a physicist who developed the theory of relativity.
+what is ai|AI stands for Artificial Intelligence — machines that can think and learn.
+what is computer|A computer is an electronic device that processes data into information.
+what is internet|It’s the global network that connects billions of devices.
+what is love|Love is… complicated. Even for humans.
+what is life|Life is what you make of it — beautiful, messy, and real.
+sing a song|La la la 🎵 Sorry, I’m better at talking than singing!
+dance|If I had legs, I’d do the moonwalk right now.
+say something cool|Code hard, stay humble 😎.
+give me advice|Always be curious — that’s how you grow.
+motivate me|You’ve got this! Every pro was once a beginner.
+inspire me|Keep going. The best things take time.
+what are you doing|Just chilling in the code space, waiting for you to chat.
+what time is it|Time to code, obviously.
+what is your name|chatbot
+what is my name|Nishan
+
